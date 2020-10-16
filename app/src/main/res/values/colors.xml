@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary">#6FD3D5</color>
+    <color name="inactive">#A2BCBC</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#6FD3D5</color>
+
+    <color name="gray">#7e7e7e</color>
+    <color name="semi_gray">#979797</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="fb">#3b5998</color>
+    <color name="google">#d34836</color>
+    <color name="bg_doctor_item">#D6E2E2</color>
+    <color name="bg_doctor">#D6E2E2</color>
+    <color name="background_doctor_circle">#5B6C7E</color>
+
+
+    <!--Design colors-->
+    <color name="red_dark">#F06423</color>
+    <color name="red_dark2">#D85A1B</color>
+    <color name="cyan_light">#c9ebee</color>
+    <color name="cyan">#b5e3e7</color>
+    <color name="cyan_dark">#70BDC6</color>
+    <color name="navy_blue">#214258</color>
+    <color name="navy_blue_dark">#1C3A4E</color>
+    <color name="light_green">#78DC96</color>
+    <color name="light_blue">#55C8F0</color>
+    <color name="blue_black_dark">#13171d</color>
+    <color name="blue_black_light">#516179</color>
+    <color name="blue_grey_light">#A5B4C8</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#fff44f</color>
+
+
+    <color name="colorRating">#f7ab59</color>
+    <color name="colorRatingOff">#a2bcbc</color>
+    <color name="color_495a72">#495a72</color>
+    <color name="color_fc8d08">#fc8d08</color>
+    <color name="color_40e2c3">#40e2c3</color>
+    <color name="color_ff738e">#ff738e</color>
+    <color name="colorBackground">#F5F7FB</color>
+    <color name="colorBackgroundItem">#F8F9FB</color>
+    <color name="color_6fd3d5">#6fd3d5</color>
+    <color name="color_1d2d49">#1d2d49</color>
+    <color name="athens_gray">#F5F7FB</color>
+
+    <color name="viking">#6FD3D5</color>
+    <color name="morning_glory">#A5D8E0</color>
+    <color name="tower_gray">#A2BCBC</color>
+    <color name="scooter">#22C5D6</color>
+    <color name="froly">#FF738E</color>
+    <color name="gable_green">#193332</color>
+    <color name="cutty_sark">#516666</color>
+    <color name="cloud_burst">#1D2D49</color>
+    <color name="turquoise">#40E2C3</color>
+
+    <color name="color_view">#DFDBDB</color>
+    <color name="color_text">#1d2d49</color>
+    <color name="color_text_title">#5c6c7f</color>
+
+    <color name="color_FCAC62">#FCAC62</color>
+    <color name="color_FBD4C2">#FBD4C2</color>
+
+    <color name="view_line">#73848C</color>
+    <color name="color_line">#239389</color>
+    <color name="color_text_one">#a2bcbc</color>
+
+    <color name="color_bg_alarm">#E4ECECEA</color>
+    <color name="color_bg_alarm_off">#ACC8CC</color>
+
+    // category measure three patient
+    <color name="color_low">#007FFF</color>
+    <color name="color_good">#00FF00</color>
+    <color name="color_tien_tha">#E6E600</color>
+    <color name="color_do_1">#FF7F00</color>
+    <color name="color_do_2">#DC143C</color>
+    <color name="color_do_3">#800000</color>
+    <color name="black_haze">#EBEDED</color>
+    <color name="shuttle_gray">#5C6C7F</color>
+    <color name="view_date">#93ACB8</color>
+
+</resources>

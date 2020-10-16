@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Recommend</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">Search</string>
+    <string name="recommend">Recommend</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="history">History</string>
+
+    <string-array name="user_table_columns">
+        <item>username</item>
+        <item>password</item>
+        <item>gender</item>
+        <item>weight</item>
+    </string-array>
+
+    <string-array name="user_table_columns_with_index">
+        <item>id</item>
+        <item>username</item>
+        <item>password</item>
+        <item>gender</item>
+        <item>weight</item>
+    </string-array>
+
+    <string-array name="activities_table_columns">
+        <item>id</item>
+        <item>activities_name</item>
+        <item>base_calories</item>
+        <item>image</item>
+    </string-array>
+
+    <string-array name="food_table_columns">
+        <item>id</item>
+        <item>food_name</item>
+        <item>portion_size</item>
+        <item>calories</item>
+        <item>image</item>
+    </string-array>
+
+    <string-array name="book_mark_columns">
+        <item>food_id</item>
+        <item>username</item>
+        <item>food_name</item>
+        <item>portion_size</item>
+        <item>calories</item>
+        <item>quantity</item>
+    </string-array>
+
+    <string-array name="book_mark_columns_with_index">
+        <item>id</item>
+        <item>food_id</item>
+        <item>username</item>
+        <item>food_name</item>
+        <item>portion_size</item>
+        <item>calories</item>
+        <item>quantity</item>
+    </string-array>
+
+    <string-array name="history_column">
+        <item>activities_name</item>
+        <item>username</item>
+        <item>calories</item>
+        <item>minute</item>
+        <item>date</item>
+        <item>turn</item>
+    </string-array>
+
+    <string-array name="history_column_with_index">
+        <item>id</item>
+        <item>activities_name</item>
+        <item>username</item>
+        <item>calories</item>
+        <item>minute</item>
+        <item>date</item>
+        <item>turn</item>
+    </string-array>
+
+
+</resources>
